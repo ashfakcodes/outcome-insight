@@ -6,6 +6,17 @@
 
 The app was independently designed and developed from the ground up.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/ss01.png" width="180">
+  <img src="screenshots/ss02.png" width="180">
+  <img src="screenshots/ss03.png" width="180">
+  <img src="screenshots/ss04.png" width="180">
+  <img src="screenshots/ss05.png" width="180">
+  <img src="screenshots/ss06.png" width="180">
+</p>
+
 ## Highlights
 
 - 📱 Android application built with Java and XML Views
@@ -32,8 +43,6 @@ Outcome Insight supports result systems for:
 - National University Degree
 - National University Masters
 - National University Professional examinations
-
-## How it works
 
 ### Web-based results
 
