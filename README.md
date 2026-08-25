@@ -82,8 +82,6 @@ Outcome Insight was designed with a clean, modern, minimal visual style.
 
 The UI and UX were designed independently for the application, with the goal of keeping the result-checking process straightforward rather than overwhelming students with unnecessary controls.
 
-Screenshots will be added to the `screenshots/` directory.
-
 ## Privacy
 
 Outcome Insight does not collect or store personal student information such as roll numbers or registration numbers.
@@ -92,7 +90,7 @@ The application uses Internet access to load supported result portals and contai
 
 Privacy policy:
 
-urlOutcome Insight Privacy Policyhttps://xiluxstudio.great-site.net/oi/privacy-policy
+urlOutcome Insight Privacy Policy https://xiluxstudio.great-site.net/oi/privacy-policy
 
 ## Project history
 
