@@ -90,7 +90,7 @@ The application uses Internet access to load supported result portals and contai
 
 Privacy policy:
 
-urlOutcome Insight Privacy Policy https://xiluxstudio.great-site.net/oi/privacy-policy
+[Outcome Insight Privacy Policy](https://xiluxstudio.great-site.net/oi/privacy-policy)
 
 ## Project history
 
@@ -110,31 +110,12 @@ Outcome Insight uses JavaScript injection to selectively remove unnecessary elem
 
 Another practical challenge is handling result-day traffic. Government result systems can experience significant load when large numbers of students check results simultaneously. Outcome Insight therefore supports two result websites where applicable, giving students an alternative route when one portal is unavailable or overloaded.
 
-## Screenshots
 
-Screenshots will be added here.
-
-Suggested structure:
-
-```text
-screenshots/
-├── home.png
-├── board-result.png
-├── national-university.png
-├── sms-result.png
-├── pdf-export.png
-└── settings.png
-```
 
 ## Project structure
 
 This repository is intended to document and showcase Outcome Insight as a portfolio project.
 
-The Android source tree can be added under:
-
-```text
-app/
-```
 
 Documentation:
 
@@ -149,18 +130,6 @@ Visual assets:
 ```text
 screenshots/
 ```
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/outcome-insight.git
-```
-
-Open the project in Android Studio and allow Gradle to synchronize the project.
-
-> The public repository should never contain release signing keys, passwords, API credentials, Firebase service-account files, or other secrets.
 
 ## Development notes
 
